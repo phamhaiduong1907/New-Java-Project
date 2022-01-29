@@ -9,6 +9,7 @@ package demo;
  *
  * @author Hai Duong
  */
-public class SubClass {
-    
+public class SubClass extends SuperClass{
+    int a;
+    int b;
 }
