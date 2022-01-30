@@ -3,13 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package modified;
+package update;
 
 /**
  *
  * @author Hai Duong
  */
-public class NewSub extends NewSuper{
-    String c;
-    String d;
+public interface UpdateInterface {
+    
 }

@@ -10,5 +10,6 @@ package modified;
  * @author Hai Duong
  */
 public class NewSuper {
-    
+    String a;
+    String b;
 }
